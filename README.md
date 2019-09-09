@@ -1,4 +1,4 @@
-# Dataset for GA-Eval: A Neural Network based approach to evaluate Video Games Acceptance (Copy)
+# Dataset for GA-Eval: A Neural Network based approach to evaluate Video Games Acceptance
 The purpose of this Git repository is to publish the dataset aswell as the training and validation set used in the short paper *GA-Eval: A Neural Network based approach to evaluate Video Games Acceptance*
 
 ## Notes on the complete Dataset
