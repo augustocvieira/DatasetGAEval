@@ -5,7 +5,7 @@ The purpose of this Git repository is to publish the dataset aswell as the train
 - This repository contains both datasets used (Steam and Dragon Age Reviews) compressed in the file
 - The datasets have been preprocessed and may not be human readable
 - The dataset has been categorized by game and time period and the reviews have been filtered as to only contain the top 3 most frequent aspects
-- The table below shows the ammount of reviews per time period aswell as the top 3 most frequent aspects of each period:
+- The table below shows the number of reviews and aspects by time period:
 ![](Table.png)
 
 ## Training data
